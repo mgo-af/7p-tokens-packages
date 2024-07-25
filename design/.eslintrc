@@ -1,0 +1,5 @@
+{
+    "extends": [
+        "@7pace/eslint-config/client"
+    ]
+}

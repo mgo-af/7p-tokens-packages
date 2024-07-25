@@ -1,0 +1,17 @@
+{
+  "tokenSetOrder": [
+    "Default-Light",
+    "Default-Dark",
+    "Monday-Light",
+    "Monday-Dark",
+    "AzDo-Light",
+    "AzDo-Dark",
+    "Atlassian-Light",
+    "Atlassian-Dark",
+    "7pace-Base",
+    "7pace-Atlassian",
+    "7pace-Default",
+    "7pace-Monday",
+    "7pace-AzDo"
+  ]
+}

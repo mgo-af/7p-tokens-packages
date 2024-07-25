@@ -1,0 +1,23 @@
+# IDE folder
+.idea
+.vscode
+
+# Dependency directories
+node_modules/
+
+# Ignore lock file
+package-lock.json
+
+# Ignore typescript folder
+src/
+
+# Ignore Typescript config files
+tsconfig.json
+.eslintrc.json
+
+# Ignore module bundlers
+rollup.config.js
+babel.config.js
+
+# Storybook
+.storybook

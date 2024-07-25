@@ -1,0 +1,755 @@
+{
+  "color": {
+    "background": {
+      "accent": {
+        "primary": {
+          "rest": {
+            "value": "{primary-color}",
+            "type": "color",
+            "description": "used as background for rest state in main action objects "
+          },
+          "hover": {
+            "value": "{primary-hover-color}",
+            "type": "color",
+            "description": "used as background for hover state in main action objects "
+          },
+          "active": {
+            "value": "{primary-hover-color}",
+            "type": "color",
+            "description": "used as background for active/pressed state in main action objects "
+          },
+          "focus": {
+            "value": "{primary-hover-color}",
+            "type": "color",
+            "description": "used as background for focus state in main action objects "
+          }
+        },
+        "secondary": {
+          "rest": {
+            "value": "rgba(0,0,0,0)",
+            "type": "color",
+            "description": "used as background for rest state in secondary action objects "
+          },
+          "hover": {
+            "value": "{primary-background-hover-color}",
+            "type": "color",
+            "description": "used as background for hover state in secondary action objects "
+          },
+          "active": {
+            "value": "{primary-selected-color}",
+            "type": "color",
+            "description": "used as background for active state in secondary action objects "
+          },
+          "focus": {
+            "value": "{primary-background-hover-color}",
+            "type": "color",
+            "description": "used as background for focus state in secondary action objects "
+          }
+        },
+        "tertiary": {
+          "rest": {
+            "value": "rgba(0,0,0,0)",
+            "type": "color",
+            "description": "used as background for rest state in tertiary action objects "
+          },
+          "hover": {
+            "value": "{primary-background-hover-color}",
+            "type": "color",
+            "description": "used as background for hover state in tertiary action objects "
+          },
+          "active": {
+            "value": "{primary-selected-color}",
+            "type": "color",
+            "description": "used as background for active state in tertiary action objects "
+          },
+          "focus": {
+            "value": "{primary-background-hover-color}",
+            "type": "color",
+            "description": "used as background for focus state in tertiary action objects "
+          }
+        },
+        "inverted": {
+          "rest": {
+            "value": "{inverted-color-background}",
+            "type": "color",
+            "description": "used as background for rest state in inverted action objects "
+          },
+          "hover": {
+            "value": "{secondary-text-on-secondary-color}",
+            "type": "color",
+            "description": "used as background for hover state in inverted action objects "
+          },
+          "active": {
+            "value": "{primary-hover-color}",
+            "type": "color",
+            "description": "used as background for active state in inverted action objects "
+          },
+          "focus": {
+            "value": "{secondary-text-on-secondary-color}",
+            "type": "color",
+            "description": "used as background for focus state in inverted action objects "
+          }
+        },
+        "disabled": {
+          "rest": {
+            "value": "{disabled-background-color}",
+            "type": "color",
+            "description": "used as background for disabled state all action objects or inputs"
+          }
+        }
+      },
+      "surface": {
+        "primary": {
+          "value": "{primary-background-color}",
+          "type": "color",
+          "description": "used as main background for UI"
+        },
+        "secondary": {
+          "value": "{secondary-background-color}",
+          "type": "color",
+          "description": "used as secondary background for UI and popups"
+        },
+        "tertiary": {
+          "value": "{grey-background-color}",
+          "type": "color",
+          "description": "used as subtle contrast background for UI"
+        },
+        "neutral": {
+          "value": "{allgrey-background-color}",
+          "type": "color",
+          "description": "used as highlight background for UI elements"
+        },
+        "contrastInverted": {
+          "value": "{inverted-color-background}",
+          "type": "color",
+          "description": "used as background for inverted UI and objects"
+        },
+        "disabled": {
+          "value": "{disabled-background-color}",
+          "type": "color",
+          "description": "used as background for disabled UI elements"
+        }
+      },
+      "brand": {
+        "primary": {
+          "value": "{primary-color}",
+          "type": "color",
+          "description": "used as main brand color where needed"
+        },
+        "secondary": {
+          "value": "{positive-color}",
+          "type": "color",
+          "description": "used as positive brand color where needed"
+        },
+        "tertiary": {
+          "value": "{negative-color}",
+          "type": "color",
+          "description": "used as negative brand color where needed"
+        }
+      },
+      "success": {
+        "primary": {
+          "value": "{positive-color}",
+          "type": "color",
+          "description": "used as background for action objects and borders to represent positive / success "
+        },
+        "secondary": {
+          "value": "{positive-color-hover}",
+          "type": "color",
+          "description": "used as secondary background for action objects and borders to represent positive / success "
+        },
+        "tertiary": {
+          "value": "{positive-color-selected}",
+          "type": "color",
+          "description": "used as subtle background for objects to represent positive / success "
+        }
+      },
+      "danger": {
+        "primary": {
+          "value": "{negative-color}",
+          "type": "color",
+          "description": "used as background for action objects and borders to represent negative / error"
+        },
+        "secondary": {
+          "value": "{negative-color-hover}",
+          "type": "color",
+          "description": "used as secondary background for action objects and borders to represent negative / error"
+        },
+        "tertiary": {
+          "value": "{negative-color-selected}",
+          "type": "color",
+          "description": "used as subtle background for objects to represent negative / error"
+        }
+      },
+      "information": {
+        "primary": {
+          "value": "{primary-color}",
+          "type": "color",
+          "description": "used as background for action objects and borders to represent information"
+        },
+        "secondary": {
+          "value": "{link-color}",
+          "type": "color",
+          "description": "used as secondary background for action objects and borders to represent information"
+        },
+        "tertiary": {
+          "value": "{primary-selected-color}",
+          "type": "color",
+          "description": "used as background for objects to represent information"
+        }
+      },
+      "warning": {
+        "primary": {
+          "value": "{warning-color}",
+          "type": "color",
+          "description": "used as background for action objects and borders to represent warning state"
+        },
+        "secondary": {
+          "value": "{warning-color-hover}",
+          "type": "color",
+          "description": "used as secondary background for action objects and borders to represent warning state"
+        },
+        "tertiary": {
+          "value": "{warning-color-selected}",
+          "type": "color",
+          "description": "used as background for objects to represent warning state"
+        }
+      },
+      "interaction": {
+        "hover": {
+          "value": "{primary-background-hover-on-secondary-color}",
+          "type": "color",
+          "description": "used as background for hover state on interactive items in lists"
+        },
+        "active": {
+          "value": "{primary-selected-color}",
+          "type": "color",
+          "description": "used as background for pressed/active state on interactive items in lists"
+        },
+        "focus": {
+          "value": "{primary-background-hover-on-secondary-color}",
+          "type": "color",
+          "description": "used as background for focus state on interactive items in lists"
+        }
+      }
+    },
+    "foreground": {
+      "text": {
+        "primary": {
+          "value": "{primary-text-color}",
+          "type": "color",
+          "description": "used as primary color for text"
+        },
+        "secondary": {
+          "value": "{secondary-text-color}",
+          "type": "color",
+          "description": "used as secondary color for text"
+        },
+        "tertiary": {
+          "value": "{disabled-text-color}",
+          "type": "color",
+          "description": "used as disabled color for text"
+        },
+        "contrast": {
+          "value": "{text-color-on-primary}",
+          "type": "color",
+          "description": "used as color for text on contrasting backgrounds"
+        },
+        "inverted": {
+          "value": "{text-color-on-inverted}",
+          "type": "color",
+          "description": "used as color for text on inverted backgrounds"
+        },
+        "accent": {
+          "value": "{link-color}",
+          "type": "color",
+          "description": "used as color for accent text or links highlight"
+        },
+        "success": {
+          "value": "{primary-text-color}",
+          "type": "color",
+          "description": "used for text in success messages"
+        },
+        "danger": {
+          "value": "{primary-text-color}",
+          "type": "color",
+          "description": "used for text in negative / error messages"
+        },
+        "warning": {
+          "value": "{primary-text-color}",
+          "type": "color",
+          "description": "used for text in warning messages"
+        },
+        "information": {
+          "value": "{primary-text-color}",
+          "type": "color",
+          "description": "used for text in info messages"
+        }
+      },
+      "icon": {
+        "primary": {
+          "value": "{primary-text-color}",
+          "type": "color",
+          "description": "used as main color for icons"
+        },
+        "secondary": {
+          "value": "{secondary-text-color}",
+          "type": "color",
+          "description": "used as secondary color for icons"
+        },
+        "tertiary": {
+          "value": "{disabled-text-color}",
+          "type": "color",
+          "description": "used as disabled or alternative color for icons"
+        },
+        "inverted": {
+          "value": "{text-color-on-inverted}",
+          "type": "color",
+          "description": "used as color for icons on inverted backgrounds"
+        }
+      }
+    },
+    "border": {
+      "layout": {
+        "subtle": {
+          "value": "{layout-border-color}",
+          "type": "color",
+          "description": "used for main border color in UI"
+        },
+        "bold": {
+          "value": "{ui-border-color}",
+          "type": "color",
+          "description": "used for stronger border color in UI"
+        },
+        "custom": {
+          "value": "{layout-border-color}",
+          "type": "color",
+          "description": "used for platform specific border color in UI"
+        }
+      },
+      "input": {
+        "rest": {
+          "value": "{ui-border-color}",
+          "type": "color",
+          "description": "used as border for rest state inputs"
+        },
+        "hover": {
+          "value": "{primary-text-color}",
+          "type": "color",
+          "description": "used as border for hover state inputs"
+        },
+        "active": {
+          "value": "{primary-color}",
+          "type": "color",
+          "description": "used as border for active/ pressed state inputs"
+        },
+        "focus": {
+          "value": "{primary-text-color}",
+          "type": "color",
+          "description": "used as border for focus state inputs"
+        }
+      }
+    }
+  },
+  "opacity": {
+    "disabled": {
+      "value": "0",
+      "type": "opacity",
+      "description": "used when no opacity should be applied when needed to be specified "
+    },
+    "loading": {
+      "value": "40%",
+      "type": "opacity",
+      "description": "used for overlay fill backgrounds or  loading objects "
+    },
+    "overlay": {
+      "value": "70%",
+      "type": "opacity",
+      "description": "used for popup overlay backgrounds "
+    }
+  },
+  "shadow": {
+    "xs": {
+      "value": "{box-shadow-xs}",
+      "type": "boxShadow",
+      "description": "subtle elevation shadow for UI items and objects used on hover state"
+    },
+    "s": {
+      "value": "{box-shadow-small}",
+      "type": "boxShadow",
+      "description": "elevation shadow for objects like cards"
+    },
+    "m": {
+      "value": "{box-shadow-medium}",
+      "type": "boxShadow",
+      "description": "strong elevation shadow for objects"
+    },
+    "l": {
+      "value": "{box-shadow-large}",
+      "type": "boxShadow",
+      "description": "stronger elevation shadow for dropdown objects"
+    },
+    "xl": {
+      "value": "{box-shadow-large}",
+      "type": "boxShadow",
+      "description": "used as shadow for popups and big pannels"
+    },
+    "inner": {
+      "value": {
+        "x": "0",
+        "y": "1",
+        "blur": "2",
+        "spread": "0",
+        "color": "{color.foreground.icon.tertiary}",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow",
+      "description": "used as inner shadow where needed"
+    }
+  },
+  "font": {
+    "family": {
+      "body": {
+        "value": "{font-family}",
+        "type": "fontFamilies",
+        "description": "used as main font for body text"
+      },
+      "title": {
+        "value": "{h1-font-family}",
+        "type": "fontFamilies",
+        "description": "used as main font for titles"
+      }
+    },
+    "weight": {
+      "extraLight": {
+        "value": "{font-weight-very-light}",
+        "type": "fontWeights",
+        "description": "used to emphasis extra light weight text"
+      },
+      "light": {
+        "value": "{font-weight-light}",
+        "type": "fontWeights",
+        "description": "used for light weight text"
+      },
+      "normal": {
+        "value": "{font-weight-normal}",
+        "type": "fontWeights",
+        "description": "used for normal weight text "
+      },
+      "medium": {
+        "value": "{font-weight-normal}",
+        "type": "fontWeights",
+        "description": "used for medium font weight"
+      },
+      "semibold": {
+        "value": "{font-weight-bold}",
+        "type": "fontWeights",
+        "description": "used for semibolded font weight"
+      },
+      "bold": {
+        "value": "{font-weight-bold}",
+        "type": "fontWeights",
+        "description": "used for strong bolded fonts"
+      }
+    },
+    "size": {
+      "xxs": {
+        "value": "12PX",
+        "type": "fontSizes",
+        "description": "used for captations size text"
+      },
+      "xs": {
+        "value": "{font-size-10}",
+        "type": "fontSizes",
+        "description": "used for small size body text"
+      },
+      "s": {
+        "value": "{font-size-20}",
+        "type": "fontSizes",
+        "description": "used for small size body text"
+      },
+      "m": {
+        "value": "{font-size-30}",
+        "type": "fontSizes",
+        "description": "used for title size body text"
+      },
+      "l": {
+        "value": "{font-size-40}",
+        "type": "fontSizes",
+        "description": "used for subtitles and small titles"
+      },
+      "xl": {
+        "value": "{font-size-50}",
+        "type": "fontSizes",
+        "description": "used for subtitles text"
+      },
+      "xxl": {
+        "value": "{font-size-60}",
+        "type": "fontSizes",
+        "description": "used for subtitles and main titles"
+      }
+    },
+    "letterSpacing": {
+      "negative": {
+        "value": "-0.5px",
+        "type": "letterSpacing",
+        "description": "negative letter spacing used for titles when needed "
+      },
+      "neutral": {
+        "value": "0PX",
+        "type": "letterSpacing",
+        "description": "regular letter spacing used in body and subtitles"
+      },
+      "positive": {
+        "value": "0.5px",
+        "type": "letterSpacing",
+        "description": "larger letter spacing used for small body text and captation"
+      }
+    },
+    "lineHeight": {
+      "xxs": {
+        "value": "14px",
+        "type": "lineHeights",
+        "description": "used for line height for captation"
+      },
+      "xs": {
+        "value": "16px",
+        "type": "lineHeights",
+        "description": "used for extra small line height"
+      },
+      "s": {
+        "value": "{font-line-height-10}",
+        "type": "lineHeights",
+        "description": "used for line height for small body text"
+      },
+      "m": {
+        "value": "{font-line-height-20}",
+        "type": "lineHeights",
+        "description": "used for line height for body text"
+      },
+      "l": {
+        "value": "{font-line-height-50}",
+        "type": "lineHeights",
+        "description": "used for line height subtitle text"
+      },
+      "xl": {
+        "value": "{font-line-height-60}",
+        "type": "lineHeights",
+        "description": "used for line height for title text"
+      },
+      "xxl": {
+        "value": "{font-line-height-h1}",
+        "type": "lineHeights",
+        "description": "used for line height for main titles"
+      }
+    }
+  },
+  "typography": {
+    "title": {
+      "s": {
+        "value": "{font-h3}",
+        "type": "typography",
+        "description": "used after heading on page, titles for secondary pages"
+      },
+      "m": {
+        "value": "{font-h2}",
+        "type": "typography",
+        "description": "used as secondary heading on page"
+      },
+      "l": {
+        "value": "{font-h1}",
+        "type": "typography",
+        "description": "used as main heading on page"
+      }
+    },
+    "body": {
+      "bolder": {
+        "s": {
+          "value": "{font-paragraph}",
+          "type": "typography",
+          "description": "used as alternative subtitles for paragraphs"
+        },
+        "m": {
+          "value": "{font-h5}",
+          "type": "typography",
+          "description": "used as subtitles for paragraphs"
+        },
+        "l": {
+          "value": "{font-h4}",
+          "type": "typography",
+          "description": "used as subtitles, group names and subheadings"
+        }
+      },
+      "regular": {
+        "s": {
+          "value": {
+            "fontFamily": "{font-family}",
+            "fontWeight": "{font-weight-normal}",
+            "lineHeight": "{font-line-height-10}",
+            "fontSize": "{font-size-10}",
+            "letterSpacing": "{font.letterSpacing.neutral}"
+          },
+          "type": "typography",
+          "description": "used for subtle / alternative body text"
+        },
+        "m": {
+          "value": {
+            "fontFamily": "{font-family}",
+            "fontWeight": "{font-weight-normal}",
+            "lineHeight": "{font-line-height-10}",
+            "fontSize": "{font-size-10}",
+            "letterSpacing": "{font.letterSpacing.neutral}"
+          },
+          "type": "typography",
+          "description": "used for body text"
+        },
+        "l": {
+          "value": {
+            "fontFamily": "{font-family}",
+            "fontWeight": "{font-weight-bold}",
+            "lineHeight": "{font-line-height-10}",
+            "fontSize": "{font-size-20}",
+            "letterSpacing": "{font.letterSpacing.positive}"
+          },
+          "type": "typography",
+          "description": "used for bolder or title body text"
+        }
+      }
+    },
+    "caption": {
+      "s": {
+        "value": {
+          "fontFamily": "{font-family}",
+          "fontWeight": "{font-weight-normal}",
+          "lineHeight": "14px",
+          "fontSize": "12px",
+          "letterSpacing": "{font.letterSpacing.positive}"
+        },
+        "type": "typography",
+        "description": "used for subtle captation text"
+      },
+      "m": {
+        "value": {
+          "fontFamily": "{font-family}",
+          "fontWeight": "{font.weight.bold}",
+          "lineHeight": "14px",
+          "fontSize": "12px",
+          "letterSpacing": "{font.letterSpacing.neutral}"
+        },
+        "type": "typography",
+        "description": "used for main captation text"
+      },
+      "l": {
+        "value": "{font-subtext}",
+        "type": "typography",
+        "description": "used for bolder captation text"
+      }
+    }
+  },
+  "spacing": {
+    "none": {
+      "value": "0px",
+      "type": "spacing",
+      "description": "use for 0 padding or item spacing where needed"
+    },
+    "xxs": {
+      "value": "2px",
+      "type": "spacing",
+      "description": "used for small paddings and margins like in lists or items"
+    },
+    "xs": {
+      "value": "{spacing-xs}",
+      "type": "spacing",
+      "description": "used for paddings and margins in small objects"
+    },
+    "s": {
+      "value": "{spacing-small}",
+      "type": "spacing",
+      "description": "used for small margins and paddings in objects like cards or normal buttons"
+    },
+    "m": {
+      "value": "{spacing-medium}",
+      "type": "spacing",
+      "description": "used for medium margins and paddings where needed"
+    },
+    "l": {
+      "value": "{spacing-large}",
+      "type": "spacing",
+      "description": "used for large margins and paddings where needed"
+    },
+    "xl": {
+      "value": "{spacing-xl}",
+      "type": "spacing",
+      "description": "used for extra large margins and paddings where needed"
+    },
+    "xxl": {
+      "value": "{spacing-xxl}",
+      "type": "spacing",
+      "description": "used for extra large margins and paddings in layout"
+    }
+  },
+  "size": {
+    "xs": {
+      "value": "16px",
+      "type": "sizing",
+      "description": "use for small icons size"
+    },
+    "s": {
+      "value": "24px",
+      "type": "sizing",
+      "description": "use for medium icons size or small buttons "
+    },
+    "m": {
+      "value": "32px",
+      "type": "sizing",
+      "description": "use for normal buttons or item rows"
+    },
+    "l": {
+      "value": "40px",
+      "type": "sizing",
+      "description": "use for large buttons "
+    },
+    "xl": {
+      "value": "48px",
+      "type": "sizing",
+      "description": "use for large objects like fixed cards "
+    }
+  },
+  "radii": {
+    "none": {
+      "value": "0px",
+      "type": "borderRadius",
+      "description": "used for straight corners with 0 roundness"
+    },
+    "xs": {
+      "value": "2px",
+      "type": "borderRadius",
+      "description": "used for small rounded corners "
+    },
+    "s": {
+      "value": "{border-radius-small}",
+      "type": "borderRadius",
+      "description": "used as main radius for action items and objects"
+    },
+    "m": {
+      "value": "6px",
+      "type": "borderRadius",
+      "description": "used as alternative radius for action items and objects"
+    },
+    "l": {
+      "value": "{border-radius-medium}",
+      "type": "borderRadius",
+      "description": "used as radius for objects where needed"
+    },
+    "xl": {
+      "value": "{border-radius-big}",
+      "type": "borderRadius",
+      "description": "used as strong radius for objects where needed"
+    },
+    "circular": {
+      "value": "50px",
+      "type": "borderRadius",
+      "description": "used for tags or tag like objects with circular radius"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "a151ddd2045c8073c20cb2765e9cae668019a49f",
+    "name": "Monday Light",
+    "selectedTokenSets": {
+      "Monday-Light": "enabled",
+      "7pace-Monday": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "0c7bc74f222383326788ab1b15646909d91839f9",
+    "name": "Monday Dark",
+    "selectedTokenSets": {
+      "Monday-Dark": "enabled",
+      "7pace-Monday": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "f12be78d4b680bf9f27e12bb2387e44376a829f2",
+    "name": "AzDo Light",
+    "selectedTokenSets": {
+      "AzDo-Light": "enabled",
+      "7pace-AzDo": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "6498e736bb4c24b0297c203375f9248aeec105df",
+    "name": "AzDo Dark",
+    "selectedTokenSets": {
+      "AzDo-Dark": "enabled",
+      "7pace-AzDo": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "697785f619aef2303c8352f20216b3411bed64d7",
+    "name": "Default Light",
+    "selectedTokenSets": {
+      "Default-Light": "enabled",
+      "7pace-Default": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "e4d7c716d4f7b0c5ea31e8edacc9301ee13c172a",
+    "name": "Default Dark",
+    "selectedTokenSets": {
+      "Default-Dark": "enabled",
+      "7pace-Default": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "b6691eccc2514c4ec3dd98acedb3f7f9c62ce95c",
+    "name": "Atlassian Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Atlassian-Light": "enabled",
+      "7pace-Atlassian": "enabled"
+    }
+  },
+  {
+    "id": "600bce55f6d984c5a6fe6f5284bf1c32bc27dfed",
+    "name": "Atlassian Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Atlassian-Dark": "enabled",
+      "7pace-Atlassian": "enabled"
+    }
+  }
+]

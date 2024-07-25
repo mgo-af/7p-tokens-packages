@@ -1,0 +1,2003 @@
+{
+  "ds-text": {
+    "value": "#B6C2CF",
+    "type": "color"
+  },
+  "ds-text-accent-lime": {
+    "value": "#B3DF72",
+    "type": "color"
+  },
+  "ds-text-accent-lime-bolder": {
+    "value": "#D3F1A7",
+    "type": "color"
+  },
+  "ds-text-accent-red": {
+    "value": "#FD9891",
+    "type": "color"
+  },
+  "ds-text-accent-red-bolder": {
+    "value": "#FFD5D2",
+    "type": "color"
+  },
+  "ds-text-accent-orange": {
+    "value": "#FEC195",
+    "type": "color"
+  },
+  "ds-text-accent-orange-bolder": {
+    "value": "#FEDEC8",
+    "type": "color"
+  },
+  "ds-text-accent-yellow": {
+    "value": "#F5CD47",
+    "type": "color"
+  },
+  "ds-text-accent-yellow-bolder": {
+    "value": "#F8E6A0",
+    "type": "color"
+  },
+  "ds-text-accent-green": {
+    "value": "#7EE2B8",
+    "type": "color"
+  },
+  "ds-text-accent-green-bolder": {
+    "value": "#BAF3DB",
+    "type": "color"
+  },
+  "ds-text-accent-teal": {
+    "value": "#9DD9EE",
+    "type": "color"
+  },
+  "ds-text-accent-teal-bolder": {
+    "value": "#C6EDFB",
+    "type": "color"
+  },
+  "ds-text-accent-blue": {
+    "value": "#85B8FF",
+    "type": "color"
+  },
+  "ds-text-accent-blue-bolder": {
+    "value": "#CCE0FF",
+    "type": "color"
+  },
+  "ds-text-accent-purple": {
+    "value": "#B8ACF6",
+    "type": "color"
+  },
+  "ds-text-accent-purple-bolder": {
+    "value": "#DFD8FD",
+    "type": "color"
+  },
+  "ds-text-accent-magenta": {
+    "value": "#F797D2",
+    "type": "color"
+  },
+  "ds-text-accent-magenta-bolder": {
+    "value": "#FDD0EC",
+    "type": "color"
+  },
+  "ds-text-accent-gray": {
+    "value": "#9FADBC",
+    "type": "color"
+  },
+  "ds-text-accent-gray-bolder": {
+    "value": "#DEE4EA",
+    "type": "color"
+  },
+  "ds-text-disabled": {
+    "value": "#BFDBF847",
+    "type": "color"
+  },
+  "ds-text-inverse": {
+    "value": "#1D2125",
+    "type": "color"
+  },
+  "ds-text-selected": {
+    "value": "#579DFF",
+    "type": "color"
+  },
+  "ds-text-brand": {
+    "value": "#579DFF",
+    "type": "color"
+  },
+  "ds-text-danger": {
+    "value": "#FD9891",
+    "type": "color"
+  },
+  "ds-text-warning": {
+    "value": "#F5CD47",
+    "type": "color"
+  },
+  "ds-text-warning-inverse": {
+    "value": "#1D2125",
+    "type": "color"
+  },
+  "ds-text-success": {
+    "value": "#7EE2B8",
+    "type": "color"
+  },
+  "ds-text-discovery": {
+    "value": "#B8ACF6",
+    "type": "color"
+  },
+  "ds-text-information": {
+    "value": "#85B8FF",
+    "type": "color"
+  },
+  "ds-text-subtlest": {
+    "value": "#8C9BAB",
+    "type": "color"
+  },
+  "ds-text-subtle": {
+    "value": "#9FADBC",
+    "type": "color"
+  },
+  "ds-link": {
+    "value": "#579DFF",
+    "type": "color"
+  },
+  "ds-link-pressed": {
+    "value": "#85B8FF",
+    "type": "color"
+  },
+  "ds-link-visited": {
+    "value": "#B8ACF6",
+    "type": "color"
+  },
+  "ds-icon": {
+    "value": "#9FADBC",
+    "type": "color"
+  },
+  "ds-icon-accent-lime": {
+    "value": "#82B536",
+    "type": "color"
+  },
+  "ds-icon-accent-red": {
+    "value": "#E2483D",
+    "type": "color"
+  },
+  "ds-icon-accent-orange": {
+    "value": "#F38A3F",
+    "type": "color"
+  },
+  "ds-icon-accent-yellow": {
+    "value": "#F5CD47",
+    "type": "color"
+  },
+  "ds-icon-accent-green": {
+    "value": "#2ABB7F",
+    "type": "color"
+  },
+  "ds-icon-accent-teal": {
+    "value": "#42B2D7",
+    "type": "color"
+  },
+  "ds-icon-accent-blue": {
+    "value": "#388BFF",
+    "type": "color"
+  },
+  "ds-icon-accent-purple": {
+    "value": "#8F7EE7",
+    "type": "color"
+  },
+  "ds-icon-accent-magenta": {
+    "value": "#DA62AC",
+    "type": "color"
+  },
+  "ds-icon-accent-gray": {
+    "value": "#738496",
+    "type": "color"
+  },
+  "ds-icon-disabled": {
+    "value": "#BFDBF847",
+    "type": "color"
+  },
+  "ds-icon-inverse": {
+    "value": "#1D2125",
+    "type": "color"
+  },
+  "ds-icon-selected": {
+    "value": "#579DFF",
+    "type": "color"
+  },
+  "ds-icon-brand": {
+    "value": "#579DFF",
+    "type": "color"
+  },
+  "ds-icon-danger": {
+    "value": "#F15B50",
+    "type": "color"
+  },
+  "ds-icon-warning": {
+    "value": "#F5CD47",
+    "type": "color"
+  },
+  "ds-icon-warning-inverse": {
+    "value": "#1D2125",
+    "type": "color"
+  },
+  "ds-icon-success": {
+    "value": "#2ABB7F",
+    "type": "color"
+  },
+  "ds-icon-discovery": {
+    "value": "#8F7EE7",
+    "type": "color"
+  },
+  "ds-icon-information": {
+    "value": "#388BFF",
+    "type": "color"
+  },
+  "ds-icon-subtle": {
+    "value": "#8C9BAB",
+    "type": "color"
+  },
+  "ds-border": {
+    "value": "#A6C5E229",
+    "type": "color"
+  },
+  "ds-border-accent-lime": {
+    "value": "#82B536",
+    "type": "color"
+  },
+  "ds-border-accent-red": {
+    "value": "#F15B50",
+    "type": "color"
+  },
+  "ds-border-accent-orange": {
+    "value": "#F38A3F",
+    "type": "color"
+  },
+  "ds-border-accent-yellow": {
+    "value": "#CF9F02",
+    "type": "color"
+  },
+  "ds-border-accent-green": {
+    "value": "#2ABB7F",
+    "type": "color"
+  },
+  "ds-border-accent-teal": {
+    "value": "#42B2D7",
+    "type": "color"
+  },
+  "ds-border-accent-blue": {
+    "value": "#388BFF",
+    "type": "color"
+  },
+  "ds-border-accent-purple": {
+    "value": "#8F7EE7",
+    "type": "color"
+  },
+  "ds-border-accent-magenta": {
+    "value": "#DA62AC",
+    "type": "color"
+  },
+  "ds-border-accent-gray": {
+    "value": "#738496",
+    "type": "color"
+  },
+  "ds-border-disabled": {
+    "value": "#A1BDD914",
+    "type": "color"
+  },
+  "ds-border-focused": {
+    "value": "#85B8FF",
+    "type": "color"
+  },
+  "ds-border-input": {
+    "value": "#A6C5E229",
+    "type": "color"
+  },
+  "ds-border-inverse": {
+    "value": "#161A1D",
+    "type": "color"
+  },
+  "ds-border-selected": {
+    "value": "#579DFF",
+    "type": "color"
+  },
+  "ds-border-brand": {
+    "value": "#579DFF",
+    "type": "color"
+  },
+  "ds-border-danger": {
+    "value": "#F15B50",
+    "type": "color"
+  },
+  "ds-border-warning": {
+    "value": "#CF9F02",
+    "type": "color"
+  },
+  "ds-border-success": {
+    "value": "#2ABB7F",
+    "type": "color"
+  },
+  "ds-border-discovery": {
+    "value": "#8F7EE7",
+    "type": "color"
+  },
+  "ds-border-information": {
+    "value": "#388BFF",
+    "type": "color"
+  },
+  "ds-border-bold": {
+    "value": "#738496",
+    "type": "color"
+  },
+  "ds-background-accent-lime-subtlest": {
+    "value": "#28311B",
+    "type": "color"
+  },
+  "ds-background-accent-lime-subtlest-hovered": {
+    "value": "#37471F",
+    "type": "color"
+  },
+  "ds-background-accent-lime-subtlest-pressed": {
+    "value": "#4C6B1F",
+    "type": "color"
+  },
+  "ds-background-accent-lime-subtler": {
+    "value": "#37471F",
+    "type": "color"
+  },
+  "ds-background-accent-lime-subtler-hovered": {
+    "value": "#4C6B1F",
+    "type": "color"
+  },
+  "ds-background-accent-lime-subtler-pressed": {
+    "value": "#5B7F24",
+    "type": "color"
+  },
+  "ds-background-accent-lime-subtle": {
+    "value": "#4C6B1F",
+    "type": "color"
+  },
+  "ds-background-accent-lime-subtle-hovered": {
+    "value": "#37471F",
+    "type": "color"
+  },
+  "ds-background-accent-lime-subtle-pressed": {
+    "value": "#28311B",
+    "type": "color"
+  },
+  "ds-background-accent-lime-bolder": {
+    "value": "#94C748",
+    "type": "color"
+  },
+  "ds-background-accent-lime-bolder-hovered": {
+    "value": "#B3DF72",
+    "type": "color"
+  },
+  "ds-background-accent-lime-bolder-pressed": {
+    "value": "#D3F1A7",
+    "type": "color"
+  },
+  "ds-background-accent-red-subtlest": {
+    "value": "#42221F",
+    "type": "color"
+  },
+  "ds-background-accent-red-subtlest-hovered": {
+    "value": "#5D1F1A",
+    "type": "color"
+  },
+  "ds-background-accent-red-subtlest-pressed": {
+    "value": "#AE2E24",
+    "type": "color"
+  },
+  "ds-background-accent-red-subtler": {
+    "value": "#5D1F1A",
+    "type": "color"
+  },
+  "ds-background-accent-red-subtler-hovered": {
+    "value": "#AE2E24",
+    "type": "color"
+  },
+  "ds-background-accent-red-subtler-pressed": {
+    "value": "#C9372C",
+    "type": "color"
+  },
+  "ds-background-accent-red-subtle": {
+    "value": "#AE2E24",
+    "type": "color"
+  },
+  "ds-background-accent-red-subtle-hovered": {
+    "value": "#5D1F1A",
+    "type": "color"
+  },
+  "ds-background-accent-red-subtle-pressed": {
+    "value": "#42221F",
+    "type": "color"
+  },
+  "ds-background-accent-red-bolder": {
+    "value": "#F87168",
+    "type": "color"
+  },
+  "ds-background-accent-red-bolder-hovered": {
+    "value": "#FD9891",
+    "type": "color"
+  },
+  "ds-background-accent-red-bolder-pressed": {
+    "value": "#FFD5D2",
+    "type": "color"
+  },
+  "ds-background-accent-orange-subtlest": {
+    "value": "#38291E",
+    "type": "color"
+  },
+  "ds-background-accent-orange-subtlest-hovered": {
+    "value": "#702E00",
+    "type": "color"
+  },
+  "ds-background-accent-orange-subtlest-pressed": {
+    "value": "#A54800",
+    "type": "color"
+  },
+  "ds-background-accent-orange-subtler": {
+    "value": "#702E00",
+    "type": "color"
+  },
+  "ds-background-accent-orange-subtler-hovered": {
+    "value": "#A54800",
+    "type": "color"
+  },
+  "ds-background-accent-orange-subtler-pressed": {
+    "value": "#C25100",
+    "type": "color"
+  },
+  "ds-background-accent-orange-subtle": {
+    "value": "#A54800",
+    "type": "color"
+  },
+  "ds-background-accent-orange-subtle-hovered": {
+    "value": "#702E00",
+    "type": "color"
+  },
+  "ds-background-accent-orange-subtle-pressed": {
+    "value": "#38291E",
+    "type": "color"
+  },
+  "ds-background-accent-orange-bolder": {
+    "value": "#FEA362",
+    "type": "color"
+  },
+  "ds-background-accent-orange-bolder-hovered": {
+    "value": "#FEC195",
+    "type": "color"
+  },
+  "ds-background-accent-orange-bolder-pressed": {
+    "value": "#FEDEC8",
+    "type": "color"
+  },
+  "ds-background-accent-yellow-subtlest": {
+    "value": "#332E1B",
+    "type": "color"
+  },
+  "ds-background-accent-yellow-subtlest-hovered": {
+    "value": "#533F04",
+    "type": "color"
+  },
+  "ds-background-accent-yellow-subtlest-pressed": {
+    "value": "#7F5F01",
+    "type": "color"
+  },
+  "ds-background-accent-yellow-subtler": {
+    "value": "#533F04",
+    "type": "color"
+  },
+  "ds-background-accent-yellow-subtler-hovered": {
+    "value": "#7F5F01",
+    "type": "color"
+  },
+  "ds-background-accent-yellow-subtler-pressed": {
+    "value": "#946F00",
+    "type": "color"
+  },
+  "ds-background-accent-yellow-subtle": {
+    "value": "#7F5F01",
+    "type": "color"
+  },
+  "ds-background-accent-yellow-subtle-hovered": {
+    "value": "#533F04",
+    "type": "color"
+  },
+  "ds-background-accent-yellow-subtle-pressed": {
+    "value": "#332E1B",
+    "type": "color"
+  },
+  "ds-background-accent-yellow-bolder": {
+    "value": "#E2B203",
+    "type": "color"
+  },
+  "ds-background-accent-yellow-bolder-hovered": {
+    "value": "#F5CD47",
+    "type": "color"
+  },
+  "ds-background-accent-yellow-bolder-pressed": {
+    "value": "#F8E6A0",
+    "type": "color"
+  },
+  "ds-background-accent-green-subtlest": {
+    "value": "#1C3329",
+    "type": "color"
+  },
+  "ds-background-accent-green-subtlest-hovered": {
+    "value": "#164B35",
+    "type": "color"
+  },
+  "ds-background-accent-green-subtlest-pressed": {
+    "value": "#216E4E",
+    "type": "color"
+  },
+  "ds-background-accent-green-subtler": {
+    "value": "#164B35",
+    "type": "color"
+  },
+  "ds-background-accent-green-subtler-hovered": {
+    "value": "#216E4E",
+    "type": "color"
+  },
+  "ds-background-accent-green-subtler-pressed": {
+    "value": "#1F845A",
+    "type": "color"
+  },
+  "ds-background-accent-green-subtle": {
+    "value": "#216E4E",
+    "type": "color"
+  },
+  "ds-background-accent-green-subtle-hovered": {
+    "value": "#164B35",
+    "type": "color"
+  },
+  "ds-background-accent-green-subtle-pressed": {
+    "value": "#1C3329",
+    "type": "color"
+  },
+  "ds-background-accent-green-bolder": {
+    "value": "#4BCE97",
+    "type": "color"
+  },
+  "ds-background-accent-green-bolder-hovered": {
+    "value": "#7EE2B8",
+    "type": "color"
+  },
+  "ds-background-accent-green-bolder-pressed": {
+    "value": "#BAF3DB",
+    "type": "color"
+  },
+  "ds-background-accent-teal-subtlest": {
+    "value": "#1E3137",
+    "type": "color"
+  },
+  "ds-background-accent-teal-subtlest-hovered": {
+    "value": "#164555",
+    "type": "color"
+  },
+  "ds-background-accent-teal-subtlest-pressed": {
+    "value": "#206A83",
+    "type": "color"
+  },
+  "ds-background-accent-teal-subtler": {
+    "value": "#164555",
+    "type": "color"
+  },
+  "ds-background-accent-teal-subtler-hovered": {
+    "value": "#206A83",
+    "type": "color"
+  },
+  "ds-background-accent-teal-subtler-pressed": {
+    "value": "#227D9B",
+    "type": "color"
+  },
+  "ds-background-accent-teal-subtle": {
+    "value": "#206A83",
+    "type": "color"
+  },
+  "ds-background-accent-teal-subtle-hovered": {
+    "value": "#164555",
+    "type": "color"
+  },
+  "ds-background-accent-teal-subtle-pressed": {
+    "value": "#1E3137",
+    "type": "color"
+  },
+  "ds-background-accent-teal-bolder": {
+    "value": "#6CC3E0",
+    "type": "color"
+  },
+  "ds-background-accent-teal-bolder-hovered": {
+    "value": "#9DD9EE",
+    "type": "color"
+  },
+  "ds-background-accent-teal-bolder-pressed": {
+    "value": "#C6EDFB",
+    "type": "color"
+  },
+  "ds-background-accent-blue-subtlest": {
+    "value": "#1C2B41",
+    "type": "color"
+  },
+  "ds-background-accent-blue-subtlest-hovered": {
+    "value": "#09326C",
+    "type": "color"
+  },
+  "ds-background-accent-blue-subtlest-pressed": {
+    "value": "#0055CC",
+    "type": "color"
+  },
+  "ds-background-accent-blue-subtler": {
+    "value": "#09326C",
+    "type": "color"
+  },
+  "ds-background-accent-blue-subtler-hovered": {
+    "value": "#0055CC",
+    "type": "color"
+  },
+  "ds-background-accent-blue-subtler-pressed": {
+    "value": "#0C66E4",
+    "type": "color"
+  },
+  "ds-background-accent-blue-subtle": {
+    "value": "#0055CC",
+    "type": "color"
+  },
+  "ds-background-accent-blue-subtle-hovered": {
+    "value": "#09326C",
+    "type": "color"
+  },
+  "ds-background-accent-blue-subtle-pressed": {
+    "value": "#1C2B41",
+    "type": "color"
+  },
+  "ds-background-accent-blue-bolder": {
+    "value": "#579DFF",
+    "type": "color"
+  },
+  "ds-background-accent-blue-bolder-hovered": {
+    "value": "#85B8FF",
+    "type": "color"
+  },
+  "ds-background-accent-blue-bolder-pressed": {
+    "value": "#CCE0FF",
+    "type": "color"
+  },
+  "ds-background-accent-purple-subtlest": {
+    "value": "#2B273F",
+    "type": "color"
+  },
+  "ds-background-accent-purple-subtlest-hovered": {
+    "value": "#352C63",
+    "type": "color"
+  },
+  "ds-background-accent-purple-subtlest-pressed": {
+    "value": "#5E4DB2",
+    "type": "color"
+  },
+  "ds-background-accent-purple-subtler": {
+    "value": "#352C63",
+    "type": "color"
+  },
+  "ds-background-accent-purple-subtler-hovered": {
+    "value": "#5E4DB2",
+    "type": "color"
+  },
+  "ds-background-accent-purple-subtler-pressed": {
+    "value": "#6E5DC6",
+    "type": "color"
+  },
+  "ds-background-accent-purple-subtle": {
+    "value": "#5E4DB2",
+    "type": "color"
+  },
+  "ds-background-accent-purple-subtle-hovered": {
+    "value": "#352C63",
+    "type": "color"
+  },
+  "ds-background-accent-purple-subtle-pressed": {
+    "value": "#2B273F",
+    "type": "color"
+  },
+  "ds-background-accent-purple-bolder": {
+    "value": "#9F8FEF",
+    "type": "color"
+  },
+  "ds-background-accent-purple-bolder-hovered": {
+    "value": "#B8ACF6",
+    "type": "color"
+  },
+  "ds-background-accent-purple-bolder-pressed": {
+    "value": "#DFD8FD",
+    "type": "color"
+  },
+  "ds-background-accent-magenta-subtlest": {
+    "value": "#3D2232",
+    "type": "color"
+  },
+  "ds-background-accent-magenta-subtlest-hovered": {
+    "value": "#50253F",
+    "type": "color"
+  },
+  "ds-background-accent-magenta-subtlest-pressed": {
+    "value": "#943D73",
+    "type": "color"
+  },
+  "ds-background-accent-magenta-subtler": {
+    "value": "#50253F",
+    "type": "color"
+  },
+  "ds-background-accent-magenta-subtler-hovered": {
+    "value": "#943D73",
+    "type": "color"
+  },
+  "ds-background-accent-magenta-subtler-pressed": {
+    "value": "#AE4787",
+    "type": "color"
+  },
+  "ds-background-accent-magenta-subtle": {
+    "value": "#943D73",
+    "type": "color"
+  },
+  "ds-background-accent-magenta-subtle-hovered": {
+    "value": "#50253F",
+    "type": "color"
+  },
+  "ds-background-accent-magenta-subtle-pressed": {
+    "value": "#3D2232",
+    "type": "color"
+  },
+  "ds-background-accent-magenta-bolder": {
+    "value": "#E774BB",
+    "type": "color"
+  },
+  "ds-background-accent-magenta-bolder-hovered": {
+    "value": "#F797D2",
+    "type": "color"
+  },
+  "ds-background-accent-magenta-bolder-pressed": {
+    "value": "#FDD0EC",
+    "type": "color"
+  },
+  "ds-background-accent-gray-subtlest": {
+    "value": "#2C333A",
+    "type": "color"
+  },
+  "ds-background-accent-gray-subtlest-hovered": {
+    "value": "#38414A",
+    "type": "color"
+  },
+  "ds-background-accent-gray-subtlest-pressed": {
+    "value": "#454F59",
+    "type": "color"
+  },
+  "ds-background-accent-gray-subtler": {
+    "value": "#454F59",
+    "type": "color"
+  },
+  "ds-background-accent-gray-subtler-hovered": {
+    "value": "#596773",
+    "type": "color"
+  },
+  "ds-background-accent-gray-subtler-pressed": {
+    "value": "#738496",
+    "type": "color"
+  },
+  "ds-background-accent-gray-subtle": {
+    "value": "#596773",
+    "type": "color"
+  },
+  "ds-background-accent-gray-subtle-hovered": {
+    "value": "#454F59",
+    "type": "color"
+  },
+  "ds-background-accent-gray-subtle-pressed": {
+    "value": "#38414A",
+    "type": "color"
+  },
+  "ds-background-accent-gray-bolder": {
+    "value": "#8C9BAB",
+    "type": "color"
+  },
+  "ds-background-accent-gray-bolder-hovered": {
+    "value": "#9FADBC",
+    "type": "color"
+  },
+  "ds-background-accent-gray-bolder-pressed": {
+    "value": "#B6C2CF",
+    "type": "color"
+  },
+  "ds-background-disabled": {
+    "value": "#BCD6F00A",
+    "type": "color"
+  },
+  "ds-background-input": {
+    "value": "#22272B",
+    "type": "color"
+  },
+  "ds-background-input-hovered": {
+    "value": "#282E33",
+    "type": "color"
+  },
+  "ds-background-input-pressed": {
+    "value": "#22272B",
+    "type": "color"
+  },
+  "ds-background-inverse-subtle": {
+    "value": "#FFFFFF29",
+    "type": "color"
+  },
+  "ds-background-inverse-subtle-hovered": {
+    "value": "#FFFFFF3D",
+    "type": "color"
+  },
+  "ds-background-inverse-subtle-pressed": {
+    "value": "#FFFFFF52",
+    "type": "color"
+  },
+  "ds-background-neutral": {
+    "value": "#A1BDD914",
+    "type": "color"
+  },
+  "ds-background-neutral-hovered": {
+    "value": "#A6C5E229",
+    "type": "color"
+  },
+  "ds-background-neutral-pressed": {
+    "value": "#BFDBF847",
+    "type": "color"
+  },
+  "ds-background-neutral-subtle": {
+    "value": "#00000000",
+    "type": "color"
+  },
+  "ds-background-neutral-subtle-hovered": {
+    "value": "#A1BDD914",
+    "type": "color"
+  },
+  "ds-background-neutral-subtle-pressed": {
+    "value": "#A6C5E229",
+    "type": "color"
+  },
+  "ds-background-neutral-bold": {
+    "value": "#9FADBC",
+    "type": "color"
+  },
+  "ds-background-neutral-bold-hovered": {
+    "value": "#B6C2CF",
+    "type": "color"
+  },
+  "ds-background-neutral-bold-pressed": {
+    "value": "#C7D1DB",
+    "type": "color"
+  },
+  "ds-background-selected": {
+    "value": "#1C2B41",
+    "type": "color"
+  },
+  "ds-background-selected-hovered": {
+    "value": "#09326C",
+    "type": "color"
+  },
+  "ds-background-selected-pressed": {
+    "value": "#0055CC",
+    "type": "color"
+  },
+  "ds-background-selected-bold": {
+    "value": "#579DFF",
+    "type": "color"
+  },
+  "ds-background-selected-bold-hovered": {
+    "value": "#85B8FF",
+    "type": "color"
+  },
+  "ds-background-selected-bold-pressed": {
+    "value": "#CCE0FF",
+    "type": "color"
+  },
+  "ds-background-brand-subtlest": {
+    "value": "#1C2B41",
+    "type": "color"
+  },
+  "ds-background-brand-subtlest-hovered": {
+    "value": "#09326C",
+    "type": "color"
+  },
+  "ds-background-brand-subtlest-pressed": {
+    "value": "#0055CC",
+    "type": "color"
+  },
+  "ds-background-brand-bold": {
+    "value": "#579DFF",
+    "type": "color"
+  },
+  "ds-background-brand-bold-hovered": {
+    "value": "#85B8FF",
+    "type": "color"
+  },
+  "ds-background-brand-bold-pressed": {
+    "value": "#CCE0FF",
+    "type": "color"
+  },
+  "ds-background-brand-boldest": {
+    "value": "#E9F2FF",
+    "type": "color"
+  },
+  "ds-background-brand-boldest-hovered": {
+    "value": "#CCE0FF",
+    "type": "color"
+  },
+  "ds-background-brand-boldest-pressed": {
+    "value": "#85B8FF",
+    "type": "color"
+  },
+  "ds-background-danger": {
+    "value": "#42221F",
+    "type": "color"
+  },
+  "ds-background-danger-hovered": {
+    "value": "#5D1F1A",
+    "type": "color"
+  },
+  "ds-background-danger-pressed": {
+    "value": "#AE2E24",
+    "type": "color"
+  },
+  "ds-background-danger-bold": {
+    "value": "#F87168",
+    "type": "color"
+  },
+  "ds-background-danger-bold-hovered": {
+    "value": "#FD9891",
+    "type": "color"
+  },
+  "ds-background-danger-bold-pressed": {
+    "value": "#FFD5D2",
+    "type": "color"
+  },
+  "ds-background-warning": {
+    "value": "#332E1B",
+    "type": "color"
+  },
+  "ds-background-warning-hovered": {
+    "value": "#533F04",
+    "type": "color"
+  },
+  "ds-background-warning-pressed": {
+    "value": "#7F5F01",
+    "type": "color"
+  },
+  "ds-background-warning-bold": {
+    "value": "#F5CD47",
+    "type": "color"
+  },
+  "ds-background-warning-bold-hovered": {
+    "value": "#E2B203",
+    "type": "color"
+  },
+  "ds-background-warning-bold-pressed": {
+    "value": "#CF9F02",
+    "type": "color"
+  },
+  "ds-background-success": {
+    "value": "#1C3329",
+    "type": "color"
+  },
+  "ds-background-success-hovered": {
+    "value": "#164B35",
+    "type": "color"
+  },
+  "ds-background-success-pressed": {
+    "value": "#216E4E",
+    "type": "color"
+  },
+  "ds-background-success-bold": {
+    "value": "#4BCE97",
+    "type": "color"
+  },
+  "ds-background-success-bold-hovered": {
+    "value": "#7EE2B8",
+    "type": "color"
+  },
+  "ds-background-success-bold-pressed": {
+    "value": "#BAF3DB",
+    "type": "color"
+  },
+  "ds-background-discovery": {
+    "value": "#2B273F",
+    "type": "color"
+  },
+  "ds-background-discovery-hovered": {
+    "value": "#352C63",
+    "type": "color"
+  },
+  "ds-background-discovery-pressed": {
+    "value": "#5E4DB2",
+    "type": "color"
+  },
+  "ds-background-discovery-bold": {
+    "value": "#9F8FEF",
+    "type": "color"
+  },
+  "ds-background-discovery-bold-hovered": {
+    "value": "#B8ACF6",
+    "type": "color"
+  },
+  "ds-background-discovery-bold-pressed": {
+    "value": "#DFD8FD",
+    "type": "color"
+  },
+  "ds-background-information": {
+    "value": "#1C2B41",
+    "type": "color"
+  },
+  "ds-background-information-hovered": {
+    "value": "#09326C",
+    "type": "color"
+  },
+  "ds-background-information-pressed": {
+    "value": "#0055CC",
+    "type": "color"
+  },
+  "ds-background-information-bold": {
+    "value": "#579DFF",
+    "type": "color"
+  },
+  "ds-background-information-bold-hovered": {
+    "value": "#85B8FF",
+    "type": "color"
+  },
+  "ds-background-information-bold-pressed": {
+    "value": "#CCE0FF",
+    "type": "color"
+  },
+  "ds-blanket": {
+    "value": "#10121499",
+    "type": "color"
+  },
+  "ds-blanket-selected": {
+    "value": "#1D7AFC14",
+    "type": "color"
+  },
+  "ds-blanket-danger": {
+    "value": "#E3493514",
+    "type": "color"
+  },
+  "ds-interaction-hovered": {
+    "value": "#ffffff33",
+    "type": "color"
+  },
+  "ds-interaction-pressed": {
+    "value": "#ffffff5c",
+    "type": "color"
+  },
+  "ds-skeleton": {
+    "value": "#A1BDD914",
+    "type": "color"
+  },
+  "ds-skeleton-subtle": {
+    "value": "#BCD6F00A",
+    "type": "color"
+  },
+  "ds-chart-categorical-1": {
+    "value": "#2898BD",
+    "type": "color"
+  },
+  "ds-chart-categorical-1-hovered": {
+    "value": "#42B2D7",
+    "type": "color"
+  },
+  "ds-chart-categorical-2": {
+    "value": "#B8ACF6",
+    "type": "color"
+  },
+  "ds-chart-categorical-2-hovered": {
+    "value": "#DFD8FD",
+    "type": "color"
+  },
+  "ds-chart-categorical-3": {
+    "value": "#E56910",
+    "type": "color"
+  },
+  "ds-chart-categorical-3-hovered": {
+    "value": "#F38A3F",
+    "type": "color"
+  },
+  "ds-chart-categorical-4": {
+    "value": "#F797D2",
+    "type": "color"
+  },
+  "ds-chart-categorical-4-hovered": {
+    "value": "#FDD0EC",
+    "type": "color"
+  },
+  "ds-chart-categorical-5": {
+    "value": "#CCE0FF",
+    "type": "color"
+  },
+  "ds-chart-categorical-5-hovered": {
+    "value": "#E9F2FF",
+    "type": "color"
+  },
+  "ds-chart-categorical-6": {
+    "value": "#8270DB",
+    "type": "color"
+  },
+  "ds-chart-categorical-6-hovered": {
+    "value": "#8F7EE7",
+    "type": "color"
+  },
+  "ds-chart-categorical-7": {
+    "value": "#FDD0EC",
+    "type": "color"
+  },
+  "ds-chart-categorical-7-hovered": {
+    "value": "#FFECF8",
+    "type": "color"
+  },
+  "ds-chart-categorical-8": {
+    "value": "#FEC195",
+    "type": "color"
+  },
+  "ds-chart-categorical-8-hovered": {
+    "value": "#FEDEC8",
+    "type": "color"
+  },
+  "ds-chart-lime-bold": {
+    "value": "#82B536",
+    "type": "color"
+  },
+  "ds-chart-lime-bold-hovered": {
+    "value": "#94C748",
+    "type": "color"
+  },
+  "ds-chart-lime-bolder": {
+    "value": "#94C748",
+    "type": "color"
+  },
+  "ds-chart-lime-bolder-hovered": {
+    "value": "#B3DF72",
+    "type": "color"
+  },
+  "ds-chart-lime-boldest": {
+    "value": "#B3DF72",
+    "type": "color"
+  },
+  "ds-chart-lime-boldest-hovered": {
+    "value": "#D3F1A7",
+    "type": "color"
+  },
+  "ds-chart-neutral": {
+    "value": "#738496",
+    "type": "color"
+  },
+  "ds-chart-neutral-hovered": {
+    "value": "#8C9BAB",
+    "type": "color"
+  },
+  "ds-chart-red-bold": {
+    "value": "#E2483D",
+    "type": "color"
+  },
+  "ds-chart-red-bold-hovered": {
+    "value": "#F15B50",
+    "type": "color"
+  },
+  "ds-chart-red-bolder": {
+    "value": "#F15B50",
+    "type": "color"
+  },
+  "ds-chart-red-bolder-hovered": {
+    "value": "#F87168",
+    "type": "color"
+  },
+  "ds-chart-red-boldest": {
+    "value": "#FD9891",
+    "type": "color"
+  },
+  "ds-chart-red-boldest-hovered": {
+    "value": "#FFD5D2",
+    "type": "color"
+  },
+  "ds-chart-orange-bold": {
+    "value": "#F38A3F",
+    "type": "color"
+  },
+  "ds-chart-orange-bold-hovered": {
+    "value": "#FEA362",
+    "type": "color"
+  },
+  "ds-chart-orange-bolder": {
+    "value": "#FEA362",
+    "type": "color"
+  },
+  "ds-chart-orange-bolder-hovered": {
+    "value": "#FEC195",
+    "type": "color"
+  },
+  "ds-chart-orange-boldest": {
+    "value": "#FEC195",
+    "type": "color"
+  },
+  "ds-chart-orange-boldest-hovered": {
+    "value": "#FEDEC8",
+    "type": "color"
+  },
+  "ds-chart-yellow-bold": {
+    "value": "#CF9F02",
+    "type": "color"
+  },
+  "ds-chart-yellow-bold-hovered": {
+    "value": "#E2B203",
+    "type": "color"
+  },
+  "ds-chart-yellow-bolder": {
+    "value": "#E2B203",
+    "type": "color"
+  },
+  "ds-chart-yellow-bolder-hovered": {
+    "value": "#F5CD47",
+    "type": "color"
+  },
+  "ds-chart-yellow-boldest": {
+    "value": "#F5CD47",
+    "type": "color"
+  },
+  "ds-chart-yellow-boldest-hovered": {
+    "value": "#F8E6A0",
+    "type": "color"
+  },
+  "ds-chart-green-bold": {
+    "value": "#2ABB7F",
+    "type": "color"
+  },
+  "ds-chart-green-bold-hovered": {
+    "value": "#4BCE97",
+    "type": "color"
+  },
+  "ds-chart-green-bolder": {
+    "value": "#4BCE97",
+    "type": "color"
+  },
+  "ds-chart-green-bolder-hovered": {
+    "value": "#7EE2B8",
+    "type": "color"
+  },
+  "ds-chart-green-boldest": {
+    "value": "#7EE2B8",
+    "type": "color"
+  },
+  "ds-chart-green-boldest-hovered": {
+    "value": "#BAF3DB",
+    "type": "color"
+  },
+  "ds-chart-teal-bold": {
+    "value": "#42B2D7",
+    "type": "color"
+  },
+  "ds-chart-teal-bold-hovered": {
+    "value": "#6CC3E0",
+    "type": "color"
+  },
+  "ds-chart-teal-bolder": {
+    "value": "#6CC3E0",
+    "type": "color"
+  },
+  "ds-chart-teal-bolder-hovered": {
+    "value": "#9DD9EE",
+    "type": "color"
+  },
+  "ds-chart-teal-boldest": {
+    "value": "#9DD9EE",
+    "type": "color"
+  },
+  "ds-chart-teal-boldest-hovered": {
+    "value": "#C6EDFB",
+    "type": "color"
+  },
+  "ds-chart-blue-bold": {
+    "value": "#1D7AFC",
+    "type": "color"
+  },
+  "ds-chart-blue-bold-hovered": {
+    "value": "#388BFF",
+    "type": "color"
+  },
+  "ds-chart-blue-bolder": {
+    "value": "#388BFF",
+    "type": "color"
+  },
+  "ds-chart-blue-bolder-hovered": {
+    "value": "#579DFF",
+    "type": "color"
+  },
+  "ds-chart-blue-boldest": {
+    "value": "#85B8FF",
+    "type": "color"
+  },
+  "ds-chart-blue-boldest-hovered": {
+    "value": "#CCE0FF",
+    "type": "color"
+  },
+  "ds-chart-purple-bold": {
+    "value": "#8270DB",
+    "type": "color"
+  },
+  "ds-chart-purple-bold-hovered": {
+    "value": "#8F7EE7",
+    "type": "color"
+  },
+  "ds-chart-purple-bolder": {
+    "value": "#8F7EE7",
+    "type": "color"
+  },
+  "ds-chart-purple-bolder-hovered": {
+    "value": "#9F8FEF",
+    "type": "color"
+  },
+  "ds-chart-purple-boldest": {
+    "value": "#B8ACF6",
+    "type": "color"
+  },
+  "ds-chart-purple-boldest-hovered": {
+    "value": "#DFD8FD",
+    "type": "color"
+  },
+  "ds-chart-magenta-bold": {
+    "value": "#CD519D",
+    "type": "color"
+  },
+  "ds-chart-magenta-bold-hovered": {
+    "value": "#DA62AC",
+    "type": "color"
+  },
+  "ds-chart-magenta-bolder": {
+    "value": "#DA62AC",
+    "type": "color"
+  },
+  "ds-chart-magenta-bolder-hovered": {
+    "value": "#E774BB",
+    "type": "color"
+  },
+  "ds-chart-magenta-boldest": {
+    "value": "#F797D2",
+    "type": "color"
+  },
+  "ds-chart-magenta-boldest-hovered": {
+    "value": "#FDD0EC",
+    "type": "color"
+  },
+  "ds-chart-gray-bold": {
+    "value": "#738496",
+    "type": "color"
+  },
+  "ds-chart-gray-bold-hovered": {
+    "value": "#8C9BAB",
+    "type": "color"
+  },
+  "ds-chart-gray-bolder": {
+    "value": "#8C9BAB",
+    "type": "color"
+  },
+  "ds-chart-gray-bolder-hovered": {
+    "value": "#9FADBC",
+    "type": "color"
+  },
+  "ds-chart-gray-boldest": {
+    "value": "#9FADBC",
+    "type": "color"
+  },
+  "ds-chart-gray-boldest-hovered": {
+    "value": "#B6C2CF",
+    "type": "color"
+  },
+  "ds-chart-brand": {
+    "value": "#388BFF",
+    "type": "color"
+  },
+  "ds-chart-brand-hovered": {
+    "value": "#579DFF",
+    "type": "color"
+  },
+  "ds-chart-danger": {
+    "value": "#E2483D",
+    "type": "color"
+  },
+  "ds-chart-danger-hovered": {
+    "value": "#F15B50",
+    "type": "color"
+  },
+  "ds-chart-danger-bold": {
+    "value": "#FD9891",
+    "type": "color"
+  },
+  "ds-chart-danger-bold-hovered": {
+    "value": "#FFD5D2",
+    "type": "color"
+  },
+  "ds-chart-warning": {
+    "value": "#CF9F02",
+    "type": "color"
+  },
+  "ds-chart-warning-hovered": {
+    "value": "#E2B203",
+    "type": "color"
+  },
+  "ds-chart-warning-bold": {
+    "value": "#F5CD47",
+    "type": "color"
+  },
+  "ds-chart-warning-bold-hovered": {
+    "value": "#F8E6A0",
+    "type": "color"
+  },
+  "ds-chart-success": {
+    "value": "#2ABB7F",
+    "type": "color"
+  },
+  "ds-chart-success-hovered": {
+    "value": "#4BCE97",
+    "type": "color"
+  },
+  "ds-chart-success-bold": {
+    "value": "#7EE2B8",
+    "type": "color"
+  },
+  "ds-chart-success-bold-hovered": {
+    "value": "#BAF3DB",
+    "type": "color"
+  },
+  "ds-chart-discovery": {
+    "value": "#8270DB",
+    "type": "color"
+  },
+  "ds-chart-discovery-hovered": {
+    "value": "#8F7EE7",
+    "type": "color"
+  },
+  "ds-chart-discovery-bold": {
+    "value": "#B8ACF6",
+    "type": "color"
+  },
+  "ds-chart-discovery-bold-hovered": {
+    "value": "#DFD8FD",
+    "type": "color"
+  },
+  "ds-chart-information": {
+    "value": "#1D7AFC",
+    "type": "color"
+  },
+  "ds-chart-information-hovered": {
+    "value": "#388BFF",
+    "type": "color"
+  },
+  "ds-chart-information-bold": {
+    "value": "#85B8FF",
+    "type": "color"
+  },
+  "ds-chart-information-bold-hovered": {
+    "value": "#CCE0FF",
+    "type": "color"
+  },
+  "ds-surface": {
+    "value": "#1D2125",
+    "type": "color"
+  },
+  "ds-surface-hovered": {
+    "value": "#22272B",
+    "type": "color"
+  },
+  "ds-surface-pressed": {
+    "value": "#282E33",
+    "type": "color"
+  },
+  "ds-surface-overlay": {
+    "value": "#282E33",
+    "type": "color"
+  },
+  "ds-surface-overlay-hovered": {
+    "value": "#2C333A",
+    "type": "color"
+  },
+  "ds-surface-overlay-pressed": {
+    "value": "#38414A",
+    "type": "color"
+  },
+  "ds-surface-raised": {
+    "value": "#22272B",
+    "type": "color"
+  },
+  "ds-surface-raised-hovered": {
+    "value": "#282E33",
+    "type": "color"
+  },
+  "ds-surface-raised-pressed": {
+    "value": "#2C333A",
+    "type": "color"
+  },
+  "ds-surface-sunken": {
+    "value": "#161A1D",
+    "type": "color"
+  },
+  "ds-shadow-overflow": {
+    "value": [
+      {
+        "x": "0px",
+        "y": "0px",
+        "blur": "12px",
+        "spread": "0px",
+        "color": "#0304048F",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0px",
+        "y": "0px",
+        "blur": "1px",
+        "spread": "0px",
+        "color": "#03040480",
+        "type": "dropShadow"
+      }
+    ],
+    "type": "boxShadow"
+  },
+  "ds-shadow-overflow-perimeter": {
+    "value": "#03040480",
+    "type": "color"
+  },
+  "ds-shadow-overflow-spread": {
+    "value": "#0304048f",
+    "type": "color"
+  },
+  "ds-shadow-overlay": {
+    "value": [
+      {
+        "x": "0px",
+        "y": "0px",
+        "blur": "0px",
+        "spread": "1px",
+        "color": "#39424a",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0px",
+        "y": "8px",
+        "blur": "12px",
+        "spread": "0px",
+        "color": "#0304045C",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0px",
+        "y": "0px",
+        "blur": "1px",
+        "spread": "1px",
+        "color": "#03040480",
+        "type": "dropShadow"
+      }
+    ],
+    "type": "boxShadow"
+  },
+  "ds-shadow-raised": {
+    "value": [
+      {
+        "x": "0px",
+        "y": "0px",
+        "blur": "0px",
+        "spread": "1px",
+        "color": "#00000000",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0px",
+        "y": "1px",
+        "blur": "1px",
+        "spread": "0px",
+        "color": "#03040480",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0px",
+        "y": "0px",
+        "blur": "1px",
+        "spread": "0px",
+        "color": "#03040480",
+        "type": "dropShadow"
+      }
+    ],
+    "type": "boxShadow"
+  },
+  "ds-opacity-disabled": {
+    "value": "0.4",
+    "type": "opacity"
+  },
+  "ds-opacity-loading": {
+    "value": "0.2",
+    "type": "opacity"
+  },
+  "ds-elevation-surface-current": {
+    "value": "#1D2125",
+    "type": "color"
+  },
+  "ds-border-radius-050": {
+    "type": "borderRadius",
+    "value": "3px"
+  },
+  "ds-border-radius": {
+    "value": "0.25rem",
+    "type": "borderRadius"
+  },
+  "ds-border-radius-100": {
+    "type": "borderRadius",
+    "value": "4px"
+  },
+  "ds-border-radius-200": {
+    "type": "borderRadius",
+    "value": "6px"
+  },
+  "ds-border-radius-300": {
+    "type": "borderRadius",
+    "value": "8px"
+  },
+  "ds-border-radius-400": {
+    "type": "borderRadius",
+    "value": "16px"
+  },
+  "ds-border-radius-circle": {
+    "value": "2002rem",
+    "type": "borderRadius"
+  },
+  "ds-border-width": {
+    "value": "0.0625rem",
+    "type": "borderWidth"
+  },
+  "ds-border-width-0": {
+    "value": "0rem",
+    "type": "borderWidth"
+  },
+  "ds-border-width-indicator": {
+    "value": "0.1875rem",
+    "type": "borderWidth"
+  },
+  "ds-border-width-outline": {
+    "value": "0.125rem",
+    "type": "borderWidth"
+  },
+  "ds-space-0": {
+    "value": "0rem",
+    "type": "spacing"
+  },
+  "ds-space-025": {
+    "value": "0.125rem",
+    "type": "spacing"
+  },
+  "ds-space-050": {
+    "value": "0.25rem",
+    "type": "spacing"
+  },
+  "ds-space-075": {
+    "value": "0.375rem",
+    "type": "spacing"
+  },
+  "ds-space-100": {
+    "value": "0.5rem",
+    "type": "spacing"
+  },
+  "ds-space-150": {
+    "value": "0.75rem",
+    "type": "spacing"
+  },
+  "ds-space-200": {
+    "value": "1rem",
+    "type": "spacing"
+  },
+  "ds-space-250": {
+    "value": "1.25rem",
+    "type": "spacing"
+  },
+  "ds-space-300": {
+    "value": "1.5rem",
+    "type": "spacing"
+  },
+  "ds-space-400": {
+    "value": "2rem",
+    "type": "spacing"
+  },
+  "ds-space-500": {
+    "value": "2.5rem",
+    "type": "spacing"
+  },
+  "ds-space-600": {
+    "value": "3rem",
+    "type": "spacing"
+  },
+  "ds-space-800": {
+    "value": "4rem",
+    "type": "spacing"
+  },
+  "ds-space-1000": {
+    "value": "5rem",
+    "type": "spacing"
+  },
+  "ds-space-negative-025": {
+    "value": "-0.125rem",
+    "type": "spacing"
+  },
+  "ds-space-negative-050": {
+    "value": "-0.25rem",
+    "type": "spacing"
+  },
+  "ds-space-negative-075": {
+    "value": "-0.375rem",
+    "type": "spacing"
+  },
+  "ds-space-negative-100": {
+    "value": "-0.5rem",
+    "type": "spacing"
+  },
+  "ds-space-negative-150": {
+    "value": "-0.75rem",
+    "type": "spacing"
+  },
+  "ds-space-negative-200": {
+    "value": "-1rem",
+    "type": "spacing"
+  },
+  "ds-space-negative-250": {
+    "value": "-1.25rem",
+    "type": "spacing"
+  },
+  "ds-space-negative-300": {
+    "value": "-1.5rem",
+    "type": "spacing"
+  },
+  "ds-space-negative-400": {
+    "value": "-2rem",
+    "type": "spacing"
+  },
+  "ds-font-heading-xxlarge": {
+    "value": {
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "fontSize": "2rem",
+      "lineHeight": "2.25rem",
+      "fontFamily": "ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif"
+    },
+    "type": "typography"
+  },
+  "ds-font-heading-xlarge": {
+    "value": {
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "fontSize": "1.75rem",
+      "lineHeight": "2rem",
+      "fontFamily": "ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif"
+    },
+    "type": "typography"
+  },
+  "ds-font-heading-large": {
+    "value": {
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "fontSize": "1.5rem",
+      "lineHeight": "1.75rem",
+      "fontFamily": "ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif"
+    },
+    "type": "typography"
+  },
+  "ds-font-heading-medium": {
+    "value": {
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "fontSize": "1.25rem",
+      "lineHeight": "1.5rem",
+      "fontFamily": "ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif"
+    },
+    "type": "typography"
+  },
+  "ds-font-heading-small": {
+    "value": {
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "fontSize": "1rem",
+      "lineHeight": "1.25rem",
+      "fontFamily": "ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif"
+    },
+    "type": "typography"
+  },
+  "ds-font-heading-xsmall": {
+    "value": {
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "fontSize": "0.875rem",
+      "lineHeight": "1rem",
+      "fontFamily": "ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif"
+    },
+    "type": "typography"
+  },
+  "ds-font-heading-xxsmall": {
+    "value": {
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "fontSize": "0.75rem",
+      "lineHeight": "1rem",
+      "fontFamily": "ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif"
+    },
+    "type": "typography"
+  },
+  "ds-font-body-large": {
+    "value": {
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "fontSize": "1rem",
+      "lineHeight": "1.5rem",
+      "fontFamily": "ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif"
+    },
+    "type": "typography"
+  },
+  "ds-font-body": {
+    "value": {
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "fontSize": "0.875rem",
+      "lineHeight": "1.25rem",
+      "fontFamily": "ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif"
+    },
+    "type": "typography"
+  },
+  "ds-font-body-small": {
+    "value": {
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "fontSize": "0.75rem",
+      "lineHeight": "1rem",
+      "fontFamily": "ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif"
+    },
+    "type": "typography"
+  },
+  "ds-font-ui": {
+    "value": {
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "fontSize": "0.875rem",
+      "lineHeight": "1rem",
+      "fontFamily": "ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif"
+    },
+    "type": "typography"
+  },
+  "ds-font-ui-small": {
+    "value": {
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "fontSize": "0.75rem",
+      "lineHeight": "1rem",
+      "fontFamily": "ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif"
+    },
+    "type": "typography"
+  },
+  "ds-font-code": {
+    "value": {
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "fontSize": "0.875em",
+      "lineHeight": "1rem",
+      "fontFamily": "ui-monospace, Menlo, \"Segoe UI Mono\", \"Ubuntu Mono\", monospace"
+    },
+    "type": "typography"
+  },
+  "ds-font-letterSpacing-0": {
+    "value": "0",
+    "type": "letterSpacing"
+  },
+  "ds-font-letterSpacing-100": {
+    "value": "0",
+    "type": "letterSpacing"
+  },
+  "ds-font-letterSpacing-200": {
+    "value": "0",
+    "type": "letterSpacing"
+  },
+  "ds-font-letterSpacing-300": {
+    "value": "0",
+    "type": "letterSpacing"
+  },
+  "ds-font-letterSpacing-400": {
+    "value": "0",
+    "type": "letterSpacing"
+  },
+  "ds-font-family-body": {
+    "type": "fontFamilies",
+    "value": "\"SF Pro\", ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif"
+  },
+  "ds-font-family-code": {
+    "value": "ui-monospace, Menlo, \"Segoe UI Mono\", \"Ubuntu Mono\", monospace",
+    "type": "fontFamilies"
+  },
+  "ds-font-family-heading": {
+    "value": "ui-sans-serif, \"Segoe UI\", Ubuntu, system-ui, \"Helvetica Neue\", sans-serif",
+    "type": "fontFamilies"
+  },
+  "ds-font-family-monospace": {
+    "value": "ui-monospace, Menlo, \"Segoe UI Mono\", \"Ubuntu Mono\", monospace",
+    "type": "fontFamilies"
+  },
+  "ds-font-family-sans": {
+    "type": "fontFamilies",
+    "value": "\"SF Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Roboto\", \"Oxygen\", \"Ubuntu\", \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif"
+  },
+  "ds-font-family-brand": {
+    "value": "Charlie Sans",
+    "type": "fontFamilies"
+  },
+  "ds-font-size-050": {
+    "type": "fontSizes",
+    "value": "0.6875rem"
+  },
+  "ds-font-size-075": {
+    "type": "fontSizes",
+    "value": "0.75rem"
+  },
+  "ds-font-size-100": {
+    "type": "fontSizes",
+    "value": "0.875rem"
+  },
+  "ds-font-size-200": {
+    "type": "fontSizes",
+    "value": "1rem"
+  },
+  "ds-font-size-300": {
+    "type": "fontSizes",
+    "value": "1.25rem"
+  },
+  "ds-font-size-400": {
+    "type": "fontSizes",
+    "value": "1.5rem"
+  },
+  "ds-font-size-500": {
+    "type": "fontSizes",
+    "value": "1.8125rem"
+  },
+  "ds-font-size-600": {
+    "type": "fontSizes",
+    "value": "2.1875rem"
+  },
+  "ds-font-weight-regular": {
+    "type": "fontWeights",
+    "value": "400"
+  },
+  "ds-font-weight-medium": {
+    "type": "fontWeights",
+    "value": "500"
+  },
+  "ds-font-weight-semibold": {
+    "type": "fontWeights",
+    "value": "600"
+  },
+  "ds-font-weight-bold": {
+    "type": "fontWeights",
+    "value": "700"
+  },
+  "ds-font-lineHeight-1": {
+    "type": "lineHeights",
+    "value": "1"
+  },
+  "ds-font-lineHeight-100": {
+    "type": "lineHeights",
+    "value": "1rem"
+  },
+  "ds-font-lineHeight-200": {
+    "type": "lineHeights",
+    "value": "1.25rem"
+  },
+  "ds-font-lineHeight-300": {
+    "type": "lineHeights",
+    "value": "1.5rem"
+  },
+  "ds-font-lineHeight-400": {
+    "type": "lineHeights",
+    "value": "1.75rem"
+  },
+  "ds-font-lineHeight-500": {
+    "type": "lineHeights",
+    "value": "2rem"
+  },
+  "ds-font-lineHeight-600": {
+    "type": "lineHeights",
+    "value": "2.5rem"
+  }
+}

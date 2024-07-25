@@ -1,0 +1,554 @@
+{
+  "palette-black-alpha-100": {
+    "value": "rgba(0, 0, 0, 1)",
+    "type": "color"
+  },
+  "palette-primary-tint-20": {
+    "value": "rgba(199, 224, 244, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "callout-shadow-color": {
+    "value": "rgba(0, 0, 0, 0.132)",
+    "type": "color"
+  },
+  "palette-black-alpha-20": {
+    "value": "rgba(0, 0, 0, 0.2)",
+    "type": "color"
+  },
+  "palette-primary-shade-20": {
+    "value": "rgba(0, 90, 158, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "icon-folder-color": {
+    "value": "#dcb67a",
+    "type": "color"
+  },
+  "border-subtle-color": {
+    "value": "rgba(0, 0, 0, 0.08)",
+    "type": "color"
+  },
+  "component-grid-action-hover-color": {
+    "value": "rgba(234, 234, 234, 1)",
+    "type": "color"
+  },
+  "search-match-background": {
+    "value": "rgba(255, 255, 0, 0.6)",
+    "type": "color"
+  },
+  "palette-black-alpha-4": {
+    "value": "rgba(0, 0, 0, 0.04)",
+    "type": "color"
+  },
+  "palette-accent3": {
+    "value": "rgba(214, 127, 60, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "status-success-background": {
+    "value": "rgba(223, 246, 221, 1)",
+    "type": "color"
+  },
+  "third-party-icon-filter": {
+    "value": "rgba(none, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "status-info-foreground": {
+    "value": "rgba(0, 120, 212, 1)",
+    "type": "color"
+  },
+  "nav-vertical-item-hover-background": {
+    "value": "rgba(0, 0, 0, 0.04)",
+    "type": "color"
+  },
+  "palette-error-6": {
+    "value": "rgba(203, 15, 31, 1)",
+    "type": "color"
+  },
+  "palette-black-alpha-60": {
+    "value": "rgba(0, 0, 0, 0.6)",
+    "type": "color"
+  },
+  "palette-accent3-light": {
+    "value": "rgba(251, 242, 236, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "component-grid-selected-row-color": {
+    "value": "rgba(222, 236, 249, 1)",
+    "type": "color"
+  },
+  "status-warning-text": {
+    "value": "rgba(184, 94, 6, 1)",
+    "type": "color"
+  },
+  "search-selected-match-background": {
+    "value": "rgba(245, 139, 31, 0.35)",
+    "type": "color"
+  },
+  "component-label-default-color-hover": {
+    "value": "rgba(218, 218, 218, 1)",
+    "type": "color"
+  },
+  "palette-neutral-8": {
+    "value": "rgba(234, 234, 234, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "palette-primary-tint-30": {
+    "value": "rgba(222, 236, 249, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "palette-accent3-dark": {
+    "value": "rgba(171, 102, 48, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "palette-error-10": {
+    "value": "rgba(184, 14, 28, 1)",
+    "type": "color"
+  },
+  "palette-neutral-70": {
+    "value": "rgba(76, 76, 76, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "nav-vertical-active-item-background": {
+    "value": "rgba(0, 0, 0, 0.12)",
+    "type": "color"
+  },
+  "status-success-foreground": {
+    "value": "rgba(16, 124, 16, 1)",
+    "type": "color"
+  },
+  "nav-vertical-text-primary-color": {
+    "value": "rgba(0, 0, 0, 0.9)",
+    "type": "color"
+  },
+  "background-color": {
+    "value": "rgba(255, 255, 255, 1)",
+    "type": "color"
+  },
+  "component-grid-link-selected-row-color": {
+    "value": "rgba(0, 90, 158, 1)",
+    "type": "color"
+  },
+  "palette-primary-darken-10": {
+    "value": "rgba(0, 91, 161, 1)",
+    "type": "color"
+  },
+  "component-errorBoundary-background-color": {
+    "value": "rgba(249, 235, 235, 1)",
+    "type": "color"
+  },
+  "palette-neutral-30": {
+    "value": "rgba(166, 166, 166, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "palette-accent1-light": {
+    "value": "rgba(249, 235, 235, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "palette-primary-shade-30": {
+    "value": "rgba(0, 69, 120, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "palette-accent1": {
+    "value": "rgba(218, 10, 0, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "panel-shadow-secondary-color": {
+    "value": "rgba(0, 0, 0, 0.18)",
+    "type": "color"
+  },
+  "nav-header-background": {
+    "value": "rgba(255, 255, 255, 1)",
+    "type": "color"
+  },
+  "palette-primary-darken-6": {
+    "value": "rgba(0, 103, 181, 1)",
+    "type": "color"
+  },
+  "callout-filtered-background-color": {
+    "value": "rgba(255, 255, 255, 0.86)",
+    "type": "color"
+  },
+  "component-grid-row-hover-color": {
+    "value": "rgba(248, 248, 248, 1)",
+    "type": "color"
+  },
+  "component-htmlEditor-background-color": {
+    "value": "rgba(255, 255, 255, 1)",
+    "type": "color"
+  },
+  "palette-primary-darkened-10": {
+    "value": "rgba(0, 91, 161, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "nav-header-item-hover-background": {
+    "value": "rgba(0, 0, 0, 0.02)",
+    "type": "color"
+  },
+  "component-grid-cell-bottom-border-color": {
+    "value": "rgba(234, 234, 234, 1)",
+    "type": "color"
+  },
+  "status-info-background": {
+    "value": "rgba(0, 120, 212, 1)",
+    "type": "color"
+  },
+  "palette-neutral-4": {
+    "value": "rgba(244, 244, 244, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "text-on-communication-background": {
+    "value": "rgba(255, 255, 255, 1)",
+    "type": "color"
+  },
+  "communication-background": {
+    "value": "rgba(0, 120, 212, 1)",
+    "type": "color"
+  },
+  "palette-accent2-light": {
+    "value": "rgba(223, 246, 221, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "communication-foreground": {
+    "value": "rgba(0, 90, 158, 1)",
+    "type": "color"
+  },
+  "palette-error": {
+    "value": "rgba(232, 17, 35, 1)",
+    "type": "color"
+  },
+  "palette-black-alpha-8": {
+    "value": "rgba(0, 0, 0, 0.08)",
+    "type": "color"
+  },
+  "palette-black-alpha-6": {
+    "value": "rgba(0, 0, 0, 0.06)",
+    "type": "color"
+  },
+  "focus-pulse-min-color": {
+    "value": "rgba(0, 120, 212, 0.15)",
+    "type": "color"
+  },
+  "focus-pulse-max-color": {
+    "value": "rgba(0, 120, 212, 0.23)",
+    "type": "color"
+  },
+  "palette-neutral-2": {
+    "value": "rgba(248, 248, 248, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "palette-primary-shade-10": {
+    "value": "rgba(16, 110, 190, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "status-error-text": {
+    "value": "rgba(218, 10, 0, 1)",
+    "type": "color"
+  },
+  "build-output-error-color": {
+    "value": "rgb(233, 45, 61)",
+    "type": "color"
+  },
+  "status-error-strong": {
+    "value": "rgba(168, 0, 0, 1)",
+    "type": "color"
+  },
+  "callout-shadow-secondary-color": {
+    "value": "rgba(0, 0, 0, 0.108)",
+    "type": "color"
+  },
+  "text-secondary-color": {
+    "value": "rgba(0, 0, 0, 0.55)",
+    "type": "color"
+  },
+  "palette-neutral-10": {
+    "value": "rgba(218, 218, 218, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "palette-neutral-60": {
+    "value": "rgba(102, 102, 102, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "palette-black-alpha-0": {
+    "value": "rgba(0, 0, 0, 0)",
+    "type": "color"
+  },
+  "palette-black-alpha-80": {
+    "value": "rgba(0, 0, 0, 0.8)",
+    "type": "color"
+  },
+  "status-warning-icon-foreground": {
+    "value": "rgba(177, 133, 37, 1)",
+    "type": "color"
+  },
+  "palette-primary-darkened-6": {
+    "value": "rgba(0, 103, 181, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "component-menu-selected-item-background": {
+    "value": "rgba(244, 244, 244, 1)",
+    "type": "color"
+  },
+  "palette-accent2": {
+    "value": "rgba(186, 216, 10, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "panel-shadow-color": {
+    "value": "rgba(0, 0, 0, 0.22)",
+    "type": "color"
+  },
+  "diff-color-modified": {
+    "value": "rgba(51, 153, 51, 0.1)",
+    "type": "color"
+  },
+  "nav-header-product-color": {
+    "value": "rgba(0, 120, 212, 1)",
+    "type": "color"
+  },
+  "palette-black-alpha-30": {
+    "value": "rgba(0, 0, 0, 0.3)",
+    "type": "color"
+  },
+  "component-grid-action-selected-cell-hover-color": {
+    "value": "rgba(222, 236, 249, 1)",
+    "type": "color"
+  },
+  "status-warning-background": {
+    "value": "rgba(251, 242, 236, 1)",
+    "type": "color"
+  },
+  "palette-neutral-80": {
+    "value": "rgba(51, 51, 51, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "nav-vertical-active-group-background": {
+    "value": "rgba(0, 0, 0, 0.06)",
+    "type": "color"
+  },
+  "component-htmlEditor-foreground-color": {
+    "value": "rgba(0, 0, 0, 0.9)",
+    "type": "color"
+  },
+  "component-grid-drag-source-color": {
+    "value": "rgba(255, 255, 255, 0.4)",
+    "type": "color"
+  },
+  "component-errorBoundary-border-color": {
+    "value": "rgba(218, 10, 0, 1)",
+    "type": "color"
+  },
+  "palette-neutral-100": {
+    "value": "rgba(0, 0, 0, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "palette-accent1-dark": {
+    "value": "rgba(168, 0, 0, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "palette-primary": {
+    "value": "rgba(0, 120, 212, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "text-primary-color": {
+    "value": "rgba(0, 0, 0, 0.9)",
+    "type": "color"
+  },
+  "nav-vertical-text-secondary-color": {
+    "value": "rgba(0, 0, 0, 0.55)",
+    "type": "color"
+  },
+  "palette-black-alpha-2": {
+    "value": "rgba(0, 0, 0, 0.02)",
+    "type": "color"
+  },
+  "palette-accent2-dark": {
+    "value": "rgba(16, 124, 16, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "palette-neutral-20": {
+    "value": "rgba(200, 200, 200, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "text-disabled-color": {
+    "value": "rgba(0, 0, 0, 0.38)",
+    "type": "color"
+  },
+  "component-grid-focus-border-color": {
+    "value": "rgba(0, 120, 212, 1)",
+    "type": "color"
+  },
+  "focus-border-color": {
+    "value": "rgba(0, 120, 212, 1)",
+    "type": "color"
+  },
+  "palette-neutral-6": {
+    "value": "rgba(239, 239, 239, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "status-error-background": {
+    "value": "rgba(249, 235, 235, 1)",
+    "type": "color"
+  },
+  "nav-header-text-primary-color": {
+    "value": "rgba(0, 0, 0, 0.9)",
+    "type": "color"
+  },
+  "component-label-default-color": {
+    "value": "rgba(239, 239, 239, 1)",
+    "type": "color"
+  },
+  "nav-header-active-item-background": {
+    "value": "rgba(0, 0, 0, 0.08)",
+    "type": "color"
+  },
+  "status-error-foreground": {
+    "value": "rgba(205, 74, 69, 1)",
+    "type": "color"
+  },
+  "palette-neutral-0": {
+    "value": "rgba(255, 255, 255, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "diff-color-original": {
+    "value": "rgba(172, 0, 0, 0.1)",
+    "type": "color"
+  },
+  "callout-background-color": {
+    "value": "rgba(255, 255, 255, 1)",
+    "type": "color"
+  },
+  "palette-black-alpha-70": {
+    "value": "rgba(0, 0, 0, 0.7)",
+    "type": "color"
+  },
+  "palette-primary-tint-10": {
+    "value": "rgba(43, 136, 216, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "status-success-text": {
+    "value": "rgba(127, 184, 0, 1)",
+    "type": "color"
+  },
+  "nav-header-text-secondary-color": {
+    "value": "rgba(0, 0, 0, 0.55)",
+    "type": "color"
+  },
+  "status-warning-foreground": {
+    "value": "rgba(214, 127, 60, 1)",
+    "type": "color"
+  },
+  "nav-header-text-disabled-color": {
+    "value": "rgba(0, 0, 0, 0.38)",
+    "type": "color"
+  },
+  "palette-primary-tint-40": {
+    "value": "rgba(239, 246, 252, 1)",
+    "type": "color",
+    "attributes": {
+      "rawColor": "rgb"
+    }
+  },
+  "component-grid-link-hover-color": {
+    "value": "rgba(0, 90, 158, 1)",
+    "type": "color"
+  },
+  "palette-black-alpha-10": {
+    "value": "rgba(0, 0, 0, 0.1)",
+    "type": "color"
+  },
+  "nav-vertical-background-color": {
+    "value": "rgba(234, 234, 234, 1)",
+    "type": "color"
+  }
+}
